@@ -1,4 +1,4 @@
-# # Conversor de Temperatura :thermometer:
+# Conversor de Temperatura :thermometer:
 
 
 
